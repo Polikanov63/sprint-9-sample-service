@@ -6,3 +6,4 @@ psycopg
 psycopg-binary
 pydantic
 redis
+123
